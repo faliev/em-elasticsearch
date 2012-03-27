@@ -9,7 +9,6 @@ GIT
   revision: 6e312468cd72159ccf4d48eaa1ff6d3c2533c797
   specs:
     couchchanges (0.1)
-      em-http-request (>= 0.2.7)
       json
 
 GIT
@@ -23,7 +22,6 @@ GEM
   specs:
     addressable (2.2.1)
     contest (0.1.2)
-    em-http-request (0.2.13)
       addressable (>= 2.0.0)
       eventmachine (>= 0.12.9)
     rake (0.8.7)
@@ -34,7 +32,6 @@ PLATFORMS
 DEPENDENCIES
   contest
   couchchanges!
-  em-http-request (= 0.2.13)
   em-spec!
   eventmachine!
   rake

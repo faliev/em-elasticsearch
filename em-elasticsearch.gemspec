@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
     "test/helper.rb",
     "test/elasticsearch_test.rb",
   ]
-  s.add_dependency "em-http-request", "~> 0.2.13"
+  s.add_dependency "em-http-request"
   # s.add_dependency "json", "~> 1.4.6"
   
   s.add_development_dependency "em-spec"
