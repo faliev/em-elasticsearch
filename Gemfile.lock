@@ -26,7 +26,6 @@ GEM
     em-http-request (0.2.13)
       addressable (>= 2.0.0)
       eventmachine (>= 0.12.9)
-    json (1.4.6)
     rake (0.8.7)
 
 PLATFORMS
@@ -38,5 +37,4 @@ DEPENDENCIES
   em-http-request (= 0.2.13)
   em-spec!
   eventmachine!
-  json (= 1.4.6)
   rake
